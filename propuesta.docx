@@ -1,0 +1,45 @@
+
+
+**Título del Proyecto:**
+Aplicación Móvil para Ordenar Comida
+
+**Descripción del Proyecto:**
+Este proyecto tiene como objetivo desarrollar una aplicación móvil que permita a los usuarios ordenar comida de diversos restaurantes desde la comodidad de sus dispositivos móviles. La aplicación facilitará la búsqueda de restaurantes, la visualización de menús, la realización de pedidos y el seguimiento en tiempo real del estado de sus pedidos.
+
+**Objetivos del Proyecto:**
+1. **Facilitar la Orden de Comida:** Proveer una plataforma intuitiva para que los usuarios puedan ordenar comida de manera rápida y eficiente.
+2. **Ampliar el Alcance de los Restaurantes:** Permitir a los restaurantes llegar a un mayor número de clientes a través de la venta online.
+3. **Optimizar la Entrega de Pedidos:** Integrar funcionalidades para el seguimiento en tiempo real de los pedidos, asegurando entregas rápidas y precisas.
+4. **Generar Reportes y Análisis:** Ofrecer herramientas para que los restaurantes puedan analizar sus ventas y mejorar su servicio.
+
+**Alcance del Proyecto:**
+- **Módulo de Registro de Usuarios:** Funcionalidades para que los usuarios se registren y gestionen sus perfiles.
+- **Módulo de Restaurantes y Menús:** Listado de restaurantes disponibles y visualización de menús con detalles y precios.
+- **Módulo de Pedidos:** Herramientas para realizar, pagar y confirmar pedidos, incluyendo opciones de personalización de platos.
+- **Interfaz de Usuario:** Diseño de una interfaz amigable y accesible tanto para usuarios como para restaurantes.
+- **Integración de Pagos:** Soporte para múltiples métodos de pago, incluyendo tarjetas de crédito, débito y pagos digitales.
+
+**Planificación del Proyecto:**
+1. **Fase de Análisis:** Recolección de requisitos, análisis de viabilidad y definición del alcance detallado.
+2. **Fase de Diseño :** Diseño de la arquitectura del sistema, la base de datos, y la interfaz de usuario.
+3. **Fase de Desarrollo (4 meses):** Programación de la aplicación móvil según las especificaciones definidas.
+4. **Fase de Pruebas (2 meses):** Pruebas unitarias, de integración y de usuario para asegurar la calidad del producto.
+5. **Fase de Implementación (1 mes):** capacitación a los usuarios.
+6. **Fase de Mantenimiento (indefinido):** Soporte técnico y actualizaciones continuas según sea necesario.
+
+**Recursos del Proyecto:**
+- **Equipo de Desarrollo:** Un gerente de proyecto, cuatro desarrolladores de aplicaciones móviles (Android), desarrolando en android studio.
+- **Herramientas Tecnológicas:** Plataforma de desarrollo (Android Studio), base de datos (MySql o SQLite), herramientas de control de versiones (Git).
+
+
+
+**Riesgos del Proyecto:**
+1. **Retrasos en el Cronograma:** Posibles demoras debido a problemas técnicos o falta de recursos.
+2. **Falta de Adopción:** Riesgo de que los usuarios finales no adopten la aplicación debido a una curva de aprendizaje elevada o falta de confianza en los pagos online.
+3. **Problemas de Integración:** Dificultades para integrar el sistema con los sistemas de los restaurantes y pasarelas de pago.
+
+**Mitigación de Riesgos:**
+1. **Gestión de Requisitos:** Establecer un proceso de gestión de cambios claro y efectivo.
+2. **Monitoreo del Proyecto:** Utilizar herramientas de gestión de proyectos para seguir el progreso y ajustar el plan según sea necesario.
+3. **Capacitación Adecuada:** Proporcionar formación completa y soporte continuo a los usuarios y restaurantes.
+4. **Pruebas Exhaustivas:** Realizar pruebas exhaustivas de integración y solucionar problemas antes de la implementación final.
